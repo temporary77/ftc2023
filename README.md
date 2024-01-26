@@ -1,6 +1,5 @@
 # ftc2023
-ftc centerstage 2023 (national round)
-Absolutes #24808
-2nd Runner Up Alliance
+ftc centerstage 2023 (national round)  
+Absolutes #24808  
+2nd Runner Up Alliance  
 first year + first time writing java + had relatively little time  
-decided not to push until now
